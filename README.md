@@ -1,5 +1,7 @@
 # Interpretable ML for COP Prediction in Low-GWP Refrigerants
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21328450.svg)](https://doi.org/10.5281/zenodo.21328450)
+
 > **Status:** The accompanying manuscript is currently **under peer review**
 > at the International Journal of Refrigeration and has **not yet been
 > published**. Content may be revised during the review process.
@@ -89,5 +91,8 @@ MIT — see [LICENSE](LICENSE).
 ## Citation
 
 If you use this code or data, please cite the manuscript above (currently
-under review; full citation details will be added upon acceptance). A Zenodo
-DOI for this repository will be added upon archiving.
+under review; full citation details will be added upon acceptance) and/or
+this repository via its archived Zenodo record:
+
+> A. Arbak. *a-arbak/xgboost-shap-lowgwp-cop: v1.0 — Initial release*.
+> Zenodo, 2026. [doi:10.5281/zenodo.21328450](https://doi.org/10.5281/zenodo.21328450)
